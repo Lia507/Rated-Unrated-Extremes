@@ -9,15 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Chill Guy",
-            "link": "https://www.youtube.com/watch?v=oWaLfIH1hwk",
-            "percent": 15,
-            "fps": 240,
-
-             "user": "TrickGMD",
-            "link": "https://www.youtube.com/watch?v=L4a6UY8KSXQ",
-            "percent": 79 - 100,
-            "fps": 450
+            "user": "",
+            "link": "",
+            "percent": ,
+            "fps": ,
         }
     ]
 }
